@@ -1,0 +1,124 @@
+2025-03-26 23:16:39,952 - INFO - Anexo PDF baixado: ./data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-26 23:16:40,515 - INFO - Anexo PDF baixado: ./data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-26 23:16:40,697 - INFO - Anexos PDF compactados em: ./data/anexos.zip
+2025-03-27 20:52:59,253 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 20:53:02,416 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 20:53:03,117 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 20:54:20,447 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 20:54:21,812 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 20:54:22,062 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 20:59:05,646 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 20:59:14,616 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 20:59:14,809 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 21:18:32,574 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:18:38,621 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:18:38,932 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 21:22:22,669 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:22:29,293 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:26:13,576 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:26:19,035 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:30:08,922 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:30:17,899 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:33:39,409 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:33:56,328 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:41:03,844 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:41:12,584 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:41:12,589 - WARNING - Failed to import jpype dependencies. Fallback to subprocess.
+2025-03-27 21:41:12,589 - WARNING - No module named 'jpype'
+2025-03-27 21:42:13,071 - WARNING - Got stderr: mar 27, 2025 9:41:36 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider loadDiskCache
+ADVERTÊNCIA: New fonts found, font cache will be re-built
+mar 27, 2025 9:41:36 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init>
+ADVERTÊNCIA: Building on-disk font cache, this may take a while
+mar 27, 2025 9:41:40 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init>
+ADVERTÊNCIA: Finished building on-disk font cache, found 181 fonts
+
+2025-03-27 21:42:17,151 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 21:48:16,816 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 21:48:28,331 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 21:48:28,336 - WARNING - Failed to import jpype dependencies. Fallback to subprocess.
+2025-03-27 21:48:28,336 - WARNING - No module named 'jpype'
+2025-03-27 21:49:11,110 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 21:49:11,110 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 21:49:16,071 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:03:09,362 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:03:22,982 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:03:31,198 - ERROR - Erro ao extrair dados de ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: java.util.ServiceConfigurationError: javax.imageio.spi.ImageInputStreamSpi: Provider com.github.jaiimageio.impl.stream.ChannelImageInputStreamSpi could not be instantiated
+2025-03-27 22:03:31,367 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:08:48,038 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:08:55,447 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:09:22,383 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:09:22,412 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:09:22,523 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:10:26,593 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:10:32,962 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:10:51,352 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:10:51,353 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:10:51,431 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:13:48,822 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:13:55,696 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:14:11,640 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:14:11,640 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:14:11,724 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:17:04,638 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:17:16,393 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:17:35,197 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:17:35,197 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:17:35,277 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:20:40,705 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:20:46,910 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:21:05,967 - WARNING - DataFrame vazio, nenhum dado salvo em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:21:05,967 - WARNING - Arquivo CSV não encontrado: ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:21:06,053 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:22:35,164 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:22:40,488 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:23:44,648 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:23:51,257 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:25:01,010 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:25:13,724 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:29:06,725 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:29:14,043 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:33:45,883 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:33:59,051 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:34:35,880 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:34:35,936 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\Teste_SeuNome.zip
+2025-03-27 22:34:36,019 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:36:26,381 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:36:36,009 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:37:14,293 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:37:14,312 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\Teste_SeuNome.zip
+2025-03-27 22:37:14,381 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:41:16,183 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:41:28,348 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:42:06,691 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:42:06,711 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\Teste_SeuNome.zip
+2025-03-27 22:42:08,155 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:44:08,453 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:44:15,994 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:45:04,941 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:45:05,184 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\dados_tabela.zip
+2025-03-27 22:45:06,381 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:46:49,914 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:46:54,234 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:47:50,316 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:47:50,368 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\dados_tabela.zip
+2025-03-27 22:47:50,522 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:55:01,400 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:55:10,873 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:56:05,778 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:56:05,819 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\dados_tabela.zip
+2025-03-27 22:56:06,028 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-03-27 22:58:40,350 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-03-27 22:58:50,600 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-27 22:59:44,794 - INFO - Dados salvos em ./web_scraping/data/anexos\dados_tabela.csv
+2025-03-27 22:59:44,816 - INFO - Arquivo CSV compactado em ./web_scraping/data/anexos\dados_tabela.zip
+2025-03-27 22:59:45,000 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-04-01 11:21:29,524 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-04-01 11:21:32,714 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:22:08,680 - ERROR - Cabeçalho da tabela não encontrado em ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:22:10,142 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-04-01 13:09:16,071 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-04-01 13:09:19,337 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 13:09:20,007 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
+2025-04-01 13:09:55,504 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025-04-01 13:09:58,567 - INFO - Anexo PDF baixado: ./web_scraping/data/anexos\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 13:09:58,741 - INFO - Anexos PDF compactados em: ./web_scraping/data/anexos.zip
