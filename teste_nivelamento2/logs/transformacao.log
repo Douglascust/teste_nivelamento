@@ -1,0 +1,55 @@
+2025-04-01 11:28:54,400 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:29:29,707 - ERROR - Cabe�alho da tabela n�o encontrado em Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:34:39,527 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:35:14,711 - ERROR - Cabe�alho da tabela n�o encontrado em Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:36:27,950 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:37:04,293 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: 'RN 465/2021, vigente a partir de 01/04/2021, e suas altera��es' is not in list
+2025-04-01 11:39:11,123 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:39:48,581 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: 'RN 465/2021, vigente a partir de 01/04/2021, e suas altera��es' is not in list
+2025-04-01 11:40:48,509 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:41:29,665 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: cannot access local variable 'inicio_busca' where it is not associated with a value
+2025-04-01 11:43:00,123 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:43:37,000 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: 'RN 465/2021, vigente a partir de 01/04/2021, e suas altera��es' is not in list
+2025-04-01 11:44:57,017 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:45:33,065 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: 'RN 465/2021, vigente a partir de 01/04/2021, e suas altera��es' is not in list
+2025-04-01 11:46:43,335 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:47:09,574 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 11:49:03,213 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:49:08,924 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: java.util.ServiceConfigurationError: javax.imageio.spi.ImageInputStreamSpi: Provider com.github.jaiimageio.impl.stream.ChannelImageInputStreamSpi could not be instantiated
+2025-04-01 11:49:25,608 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:49:30,341 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: java.util.ServiceConfigurationError: javax.imageio.spi.ImageInputStreamSpi: Provider com.github.jaiimageio.impl.stream.ChannelImageInputStreamSpi could not be instantiated
+2025-04-01 11:50:42,065 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:50:46,832 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: java.util.ServiceConfigurationError: javax.imageio.spi.ImageInputStreamSpi: Provider com.github.jaiimageio.impl.stream.ChannelImageInputStreamSpi could not be instantiated
+2025-04-01 11:51:09,592 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:51:17,291 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 11:52:43,265 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 11:56:55,027 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:02:50,860 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:08:33,553 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:08:46,533 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:09:42,900 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:10:44,887 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:12:52,142 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:13:58,443 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:22:55,100 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:25:34,773 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:27:26,735 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:27:31,504 - ERROR - Erro ao extrair dados de Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf: cannot pickle 'BufferedReader' instances
+2025-04-01 12:29:06,610 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:30:08,519 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:31:34,603 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:33:15,655 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:35:56,052 - INFO - PDF baixado com sucesso: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:36:58,258 - INFO - Dados salvos em dados_transformados.csv
+2025-04-01 12:40:29,324 - INFO - PDF baixado com sucesso: pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:41:27,240 - INFO - Dados salvos em csvs\dados_transformados.csv
+2025-04-01 12:52:08,633 - INFO - PDF baixado com sucesso: ../pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:53:04,816 - INFO - Dados salvos em ../csvs\dados_transformados.csv
+2025-04-01 12:56:05,226 - INFO - PDF baixado com sucesso: ../pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:57:13,020 - INFO - PDF baixado com sucesso: ../pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 12:58:28,521 - INFO - Dados salvos em ../csvs\dados_transformados.csv
+2025-04-01 12:59:29,550 - INFO - PDF baixado com sucesso: ./pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 13:00:25,953 - INFO - Dados salvos em ./csvs\dados_transformados.csv2025-04-01 13:02:28,386 - INFO - PDF baixado com sucesso: ./pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 13:03:25,482 - INFO - Dados salvos em ./csvs\dados_transformados.csv
+2025-04-01 13:17:24,630 - INFO - PDF baixado com sucesso: ./pdfs\Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-04-01 13:18:19,134 - INFO - Dados salvos em ./csvs\dados_transformados.csv
